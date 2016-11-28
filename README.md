@@ -9,9 +9,9 @@
 > 3 ways to interact with modules 
   - core modules
     -- built-in 
-    --- file system
-    --- memory /cpu
-    --- networking
+    >> file system
+    >> memory /cpu
+    >> networking
   - 3rd party modules
     -- NPM
   - 1st party Module
