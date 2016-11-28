@@ -13,6 +13,6 @@
     >> memory /cpu
     >> networking
   - 3rd party modules
-    -- NPM
+    >> NPM - modules that other people write
   - 1st party Module
     -- the ones you write
